@@ -11,6 +11,7 @@ public class Coffeprice {
 		private double icappuccino;
 		private double iIrish_Coffee;
 		private double ilong_black_coffee;
+		private string text;
 		
 		
 		
